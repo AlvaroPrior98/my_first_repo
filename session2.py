@@ -5,3 +5,6 @@ def func(a, b):
 
 def func2 (a,b):
     return a * b
+
+def square(a, b):
+    return a ** b
